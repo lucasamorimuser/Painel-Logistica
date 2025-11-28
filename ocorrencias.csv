@@ -1,0 +1,364 @@
+OcorrenciaID,ExpedicaoID,TipoOcorrencia,Gravidade
+o-1000,ex-1014,Problema com endereço de entrega,Medio
+o-1001,ex-1051,Quebra de veiculo,Leve
+o-1002,ex-1052,Problema com endereço de entrega,Leve
+o-1003,ex-1055,Problema com endereço de entrega,Medio
+o-1004,ex-1060,Lentidao em rota,Leve
+o-1005,ex-1074,Lentidao em rota,Leve
+o-1006,ex-1107,Lentidao em rota,Leve
+o-1007,ex-1127,Problema com endereço de entrega,Leve
+o-1008,ex-1128,Quebra de veiculo,Leve
+o-1009,ex-1131,Quebra de veiculo,Leve
+o-1010,ex-1136,Lentidao em rota,Leve
+o-1011,ex-1150,Problema com endereço de entrega,Leve
+o-1012,ex-1180,Quebra de veiculo,Medio
+o-1013,ex-1185,Quebra de veiculo,Leve
+o-1014,ex-1198,Problema com endereço de entrega,Leve
+o-1015,ex-1203,Quebra de veiculo,Leve
+o-1016,ex-1205,Quebra de veiculo,Leve
+o-1017,ex-1214,Lentidao em rota,Leve
+o-1018,ex-1229,Lentidao em rota,Leve
+o-1019,ex-1230,Lentidao em rota,Medio
+o-1020,ex-1248,Quebra de veiculo,Leve
+o-1021,ex-1262,Lentidao em rota,Medio
+o-1022,ex-1270,Problema com endereço de entrega,Leve
+o-1023,ex-1276,Quebra de veiculo,Leve
+o-1024,ex-1278,Lentidao em rota,Leve
+o-1025,ex-1290,Quebra de veiculo,Leve
+o-1026,ex-1297,Lentidao em rota,Leve
+o-1027,ex-1303,Quebra de veiculo,Medio
+o-1028,ex-1308,Quebra de veiculo,Leve
+o-1029,ex-1312,Lentidao em rota,Leve
+o-1030,ex-1320,Lentidao em rota,Medio
+o-1031,ex-1321,Lentidao em rota,Leve
+o-1032,ex-1334,Lentidao em rota,Leve
+o-1033,ex-1337,Problema com endereço de entrega,Leve
+o-1034,ex-1338,Lentidao em rota,Medio
+o-1035,ex-1352,Quebra de veiculo,Leve
+o-1036,ex-1359,Quebra de veiculo,Leve
+o-1037,ex-1364,Quebra de veiculo,Leve
+o-1038,ex-1387,Lentidao em rota,Leve
+o-1039,ex-1395,Quebra de veiculo,Medio
+o-1040,ex-1402,Problema com endereço de entrega,Leve
+o-1041,ex-1426,Problema com endereço de entrega,Medio
+o-1042,ex-1431,Lentidao em rota,Leve
+o-1043,ex-1437,Lentidao em rota,Leve
+o-1044,ex-1455,Problema com endereço de entrega,Leve
+o-1045,ex-1465,Problema com endereço de entrega,Leve
+o-1046,ex-1467,Lentidao em rota,Leve
+o-1047,ex-1477,Lentidao em rota,Leve
+o-1048,ex-1483,Lentidao em rota,Leve
+o-1049,ex-1485,Lentidao em rota,Leve
+o-1050,ex-1492,Quebra de veiculo,Leve
+o-1051,ex-1501,Problema com endereço de entrega,Medio
+o-1052,ex-1512,Quebra de veiculo,Leve
+o-1053,ex-1518,Problema com endereço de entrega,Leve
+o-1054,ex-1531,Lentidao em rota,Medio
+o-1055,ex-1564,Problema com endereço de entrega,Leve
+o-1056,ex-1576,Quebra de veiculo,Grave
+o-1057,ex-1587,Lentidao em rota,Medio
+o-1058,ex-1602,Quebra de veiculo,Medio
+o-1059,ex-1611,Lentidao em rota,Leve
+o-1060,ex-1626,Lentidao em rota,Medio
+o-1061,ex-1642,Lentidao em rota,Grave
+o-1062,ex-1659,Quebra de veiculo,Medio
+o-1063,ex-1674,Quebra de veiculo,Leve
+o-1064,ex-1691,Lentidao em rota,Medio
+o-1065,ex-1699,Lentidao em rota,Medio
+o-1066,ex-1705,Problema com endereço de entrega,Leve
+o-1067,ex-1723,Quebra de veiculo,Medio
+o-1068,ex-1726,Lentidao em rota,Leve
+o-1069,ex-1733,Lentidao em rota,Leve
+o-1070,ex-1736,Quebra de veiculo,Leve
+o-1071,ex-1745,Quebra de veiculo,Leve
+o-1072,ex-1778,Quebra de veiculo,Leve
+o-1073,ex-1779,Quebra de veiculo,Leve
+o-1074,ex-1783,Quebra de veiculo,Medio
+o-1075,ex-1787,Quebra de veiculo,Leve
+o-1076,ex-1813,Quebra de veiculo,Leve
+o-1077,ex-1824,Lentidao em rota,Leve
+o-1078,ex-1832,Quebra de veiculo,Leve
+o-1079,ex-1833,Lentidao em rota,Medio
+o-1080,ex-1846,Lentidao em rota,Leve
+o-1081,ex-1849,Lentidao em rota,Leve
+o-1082,ex-1868,Lentidao em rota,Leve
+o-1083,ex-1876,Problema com endereço de entrega,Leve
+o-1084,ex-1886,Problema com endereço de entrega,Leve
+o-1085,ex-1896,Lentidao em rota,Leve
+o-1086,ex-1902,Lentidao em rota,Leve
+o-1087,ex-1903,Problema com endereço de entrega,Leve
+o-1088,ex-1915,Lentidao em rota,Medio
+o-1089,ex-1921,Lentidao em rota,Leve
+o-1090,ex-1926,Problema com endereço de entrega,Medio
+o-1091,ex-1931,Problema com endereço de entrega,Leve
+o-1092,ex-1938,Quebra de veiculo,Leve
+o-1093,ex-1958,Problema com endereço de entrega,Leve
+o-1094,ex-1960,Problema com endereço de entrega,Leve
+o-1095,ex-1966,Lentidao em rota,Leve
+o-1096,ex-1971,Quebra de veiculo,Leve
+o-1097,ex-1977,Lentidao em rota,Leve
+o-1098,ex-1986,Lentidao em rota,Leve
+o-1099,ex-1991,Quebra de veiculo,Leve
+o-1100,ex-2001,Quebra de veiculo,Leve
+o-1101,ex-2008,Lentidao em rota,Leve
+o-1102,ex-2037,Problema com endereço de entrega,Leve
+o-1103,ex-2045,Lentidao em rota,Leve
+o-1104,ex-2050,Quebra de veiculo,Leve
+o-1105,ex-2054,Lentidao em rota,Leve
+o-1106,ex-2071,Lentidao em rota,Leve
+o-1107,ex-2088,Problema com endereço de entrega,Medio
+o-1108,ex-2092,Problema com endereço de entrega,Leve
+o-1109,ex-2097,Quebra de veiculo,Leve
+o-1110,ex-2104,Quebra de veiculo,Leve
+o-1111,ex-2115,Problema com endereço de entrega,Leve
+o-1112,ex-2121,Quebra de veiculo,Medio
+o-1113,ex-2122,Quebra de veiculo,Leve
+o-1114,ex-2133,Problema com endereço de entrega,Leve
+o-1115,ex-2149,Lentidao em rota,Medio
+o-1116,ex-2156,Lentidao em rota,Medio
+o-1117,ex-2161,Lentidao em rota,Leve
+o-1118,ex-2169,Problema com endereço de entrega,Leve
+o-1119,ex-2176,Lentidao em rota,Leve
+o-1120,ex-2192,Lentidao em rota,Leve
+o-1121,ex-2200,Quebra de veiculo,Medio
+o-1122,ex-2218,Problema com endereço de entrega,Leve
+o-1123,ex-2224,Lentidao em rota,Leve
+o-1124,ex-2234,Quebra de veiculo,Leve
+o-1125,ex-2239,Lentidao em rota,Leve
+o-1126,ex-2242,Lentidao em rota,Leve
+o-1127,ex-2243,Quebra de veiculo,Leve
+o-1128,ex-2249,Quebra de veiculo,Leve
+o-1129,ex-2254,Problema com endereço de entrega,Leve
+o-1130,ex-2270,Quebra de veiculo,Leve
+o-1131,ex-2277,Quebra de veiculo,Medio
+o-1132,ex-2278,Problema com endereço de entrega,Leve
+o-1133,ex-2314,Problema com endereço de entrega,Leve
+o-1134,ex-2317,Quebra de veiculo,Leve
+o-1135,ex-2324,Lentidao em rota,Medio
+o-1136,ex-2325,Quebra de veiculo,Medio
+o-1137,ex-2326,Problema com endereço de entrega,Leve
+o-1138,ex-2343,Quebra de veiculo,Medio
+o-1139,ex-2361,Quebra de veiculo,Leve
+o-1140,ex-2362,Lentidao em rota,Leve
+o-1141,ex-2389,Lentidao em rota,Leve
+o-1142,ex-2408,Quebra de veiculo,Leve
+o-1143,ex-2424,Lentidao em rota,Leve
+o-1144,ex-2425,Lentidao em rota,Leve
+o-1145,ex-2430,Lentidao em rota,Leve
+o-1146,ex-2441,Quebra de veiculo,Leve
+o-1147,ex-2453,Lentidao em rota,Leve
+o-1148,ex-2458,Lentidao em rota,Leve
+o-1149,ex-2516,Lentidao em rota,Leve
+o-1150,ex-2517,Problema com endereço de entrega,Leve
+o-1151,ex-2531,Quebra de veiculo,Leve
+o-1152,ex-2534,Quebra de veiculo,Medio
+o-1153,ex-2540,Problema com endereço de entrega,Leve
+o-1154,ex-2556,Lentidao em rota,Leve
+o-1155,ex-2559,Lentidao em rota,Leve
+o-1156,ex-2565,Lentidao em rota,Leve
+o-1157,ex-2577,Lentidao em rota,Grave
+o-1158,ex-2579,Lentidao em rota,Medio
+o-1159,ex-2583,Lentidao em rota,Leve
+o-1160,ex-2584,Quebra de veiculo,Leve
+o-1161,ex-2590,Lentidao em rota,Leve
+o-1162,ex-2603,Lentidao em rota,Leve
+o-1163,ex-2605,Quebra de veiculo,Leve
+o-1164,ex-2615,Problema com endereço de entrega,Leve
+o-1165,ex-2617,Quebra de veiculo,Grave
+o-1166,ex-2618,Lentidao em rota,Leve
+o-1167,ex-2625,Quebra de veiculo,Medio
+o-1168,ex-2637,Quebra de veiculo,Medio
+o-1169,ex-2653,Lentidao em rota,Leve
+o-1170,ex-2659,Lentidao em rota,Leve
+o-1171,ex-2663,Quebra de veiculo,Leve
+o-1172,ex-2676,Lentidao em rota,Medio
+o-1173,ex-2696,Lentidao em rota,Leve
+o-1174,ex-2703,Problema com endereço de entrega,Medio
+o-1175,ex-2715,Quebra de veiculo,Leve
+o-1176,ex-2729,Quebra de veiculo,Medio
+o-1177,ex-2731,Lentidao em rota,Medio
+o-1178,ex-2736,Lentidao em rota,Medio
+o-1179,ex-2744,Lentidao em rota,Leve
+o-1180,ex-2747,Lentidao em rota,Leve
+o-1181,ex-2754,Problema com endereço de entrega,Leve
+o-1182,ex-2764,Quebra de veiculo,Medio
+o-1183,ex-2765,Problema com endereço de entrega,Leve
+o-1184,ex-2774,Quebra de veiculo,Leve
+o-1185,ex-2788,Quebra de veiculo,Leve
+o-1186,ex-2809,Quebra de veiculo,Medio
+o-1187,ex-2839,Lentidao em rota,Leve
+o-1188,ex-2842,Lentidao em rota,Leve
+o-1189,ex-2850,Lentidao em rota,Medio
+o-1190,ex-2859,Quebra de veiculo,Leve
+o-1191,ex-2867,Quebra de veiculo,Leve
+o-1192,ex-2892,Lentidao em rota,Leve
+o-1193,ex-2898,Lentidao em rota,Medio
+o-1194,ex-2900,Lentidao em rota,Medio
+o-1195,ex-2914,Problema com endereço de entrega,Leve
+o-1196,ex-2955,Problema com endereço de entrega,Medio
+o-1197,ex-2957,Lentidao em rota,Leve
+o-1198,ex-2963,Lentidao em rota,Grave
+o-1199,ex-2967,Problema com endereço de entrega,Leve
+o-1200,ex-2978,Quebra de veiculo,Medio
+o-1201,ex-2987,Lentidao em rota,Leve
+o-1202,ex-3004,Lentidao em rota,Leve
+o-1203,ex-3007,Problema com endereço de entrega,Leve
+o-1204,ex-3023,Lentidao em rota,Leve
+o-1205,ex-3027,Lentidao em rota,Leve
+o-1206,ex-3028,Lentidao em rota,Leve
+o-1207,ex-3046,Lentidao em rota,Medio
+o-1208,ex-3051,Lentidao em rota,Leve
+o-1209,ex-3056,Lentidao em rota,Leve
+o-1210,ex-3061,Quebra de veiculo,Leve
+o-1211,ex-3067,Problema com endereço de entrega,Leve
+o-1212,ex-3109,Quebra de veiculo,Leve
+o-1213,ex-3139,Lentidao em rota,Leve
+o-1214,ex-3154,Lentidao em rota,Leve
+o-1215,ex-3162,Lentidao em rota,Medio
+o-1216,ex-3193,Lentidao em rota,Medio
+o-1217,ex-3197,Quebra de veiculo,Leve
+o-1218,ex-3198,Lentidao em rota,Leve
+o-1219,ex-3200,Lentidao em rota,Medio
+o-1220,ex-3211,Problema com endereço de entrega,Medio
+o-1221,ex-3212,Problema com endereço de entrega,Leve
+o-1222,ex-3223,Problema com endereço de entrega,Leve
+o-1223,ex-3227,Lentidao em rota,Medio
+o-1224,ex-3236,Problema com endereço de entrega,Grave
+o-1225,ex-3237,Lentidao em rota,Leve
+o-1226,ex-3256,Quebra de veiculo,Leve
+o-1227,ex-3271,Problema com endereço de entrega,Leve
+o-1228,ex-3298,Lentidao em rota,Grave
+o-1229,ex-3300,Lentidao em rota,Leve
+o-1230,ex-3307,Problema com endereço de entrega,Leve
+o-1231,ex-3317,Lentidao em rota,Leve
+o-1232,ex-3324,Lentidao em rota,Leve
+o-1233,ex-3331,Problema com endereço de entrega,Leve
+o-1234,ex-3333,Problema com endereço de entrega,Medio
+o-1235,ex-3336,Lentidao em rota,Leve
+o-1236,ex-3339,Quebra de veiculo,Medio
+o-1237,ex-3343,Quebra de veiculo,Medio
+o-1238,ex-3344,Quebra de veiculo,Medio
+o-1239,ex-3358,Lentidao em rota,Leve
+o-1240,ex-3359,Lentidao em rota,Leve
+o-1241,ex-3360,Quebra de veiculo,Medio
+o-1242,ex-3366,Quebra de veiculo,Medio
+o-1243,ex-3375,Lentidao em rota,Leve
+o-1244,ex-3392,Problema com endereço de entrega,Leve
+o-1245,ex-3416,Quebra de veiculo,Medio
+o-1246,ex-3444,Quebra de veiculo,Leve
+o-1247,ex-3445,Lentidao em rota,Leve
+o-1248,ex-3447,Quebra de veiculo,Leve
+o-1249,ex-3458,Lentidao em rota,Leve
+o-1250,ex-3459,Lentidao em rota,Leve
+o-1251,ex-3466,Problema com endereço de entrega,Leve
+o-1252,ex-3490,Problema com endereço de entrega,Grave
+o-1253,ex-3499,Problema com endereço de entrega,Leve
+o-1254,ex-3539,Problema com endereço de entrega,Medio
+o-1255,ex-3541,Lentidao em rota,Leve
+o-1256,ex-3547,Problema com endereço de entrega,Medio
+o-1257,ex-3555,Lentidao em rota,Medio
+o-1258,ex-3565,Problema com endereço de entrega,Leve
+o-1259,ex-3577,Problema com endereço de entrega,Leve
+o-1260,ex-3606,Lentidao em rota,Medio
+o-1261,ex-3607,Quebra de veiculo,Medio
+o-1262,ex-3618,Lentidao em rota,Leve
+o-1263,ex-3623,Lentidao em rota,Leve
+o-1264,ex-3634,Lentidao em rota,Leve
+o-1265,ex-3636,Quebra de veiculo,Leve
+o-1266,ex-3644,Lentidao em rota,Leve
+o-1267,ex-3655,Lentidao em rota,Leve
+o-1268,ex-3660,Problema com endereço de entrega,Leve
+o-1269,ex-3685,Lentidao em rota,Leve
+o-1270,ex-3722,Lentidao em rota,Leve
+o-1271,ex-3737,Quebra de veiculo,Leve
+o-1272,ex-3741,Lentidao em rota,Leve
+o-1273,ex-3743,Problema com endereço de entrega,Medio
+o-1274,ex-3748,Quebra de veiculo,Medio
+o-1275,ex-3761,Lentidao em rota,Leve
+o-1276,ex-3774,Quebra de veiculo,Medio
+o-1277,ex-3792,Lentidao em rota,Leve
+o-1278,ex-3804,Problema com endereço de entrega,Medio
+o-1279,ex-3818,Quebra de veiculo,Leve
+o-1280,ex-3825,Problema com endereço de entrega,Medio
+o-1281,ex-3845,Quebra de veiculo,Leve
+o-1282,ex-3861,Quebra de veiculo,Leve
+o-1283,ex-3871,Lentidao em rota,Medio
+o-1284,ex-3891,Lentidao em rota,Leve
+o-1285,ex-3897,Problema com endereço de entrega,Leve
+o-1286,ex-3907,Lentidao em rota,Leve
+o-1287,ex-3915,Lentidao em rota,Leve
+o-1288,ex-3923,Lentidao em rota,Leve
+o-1289,ex-3945,Lentidao em rota,Leve
+o-1290,ex-3959,Lentidao em rota,Medio
+o-1291,ex-3967,Problema com endereço de entrega,Medio
+o-1292,ex-3969,Quebra de veiculo,Leve
+o-1293,ex-3978,Problema com endereço de entrega,Leve
+o-1294,ex-3989,Lentidao em rota,Leve
+o-1295,ex-3996,Lentidao em rota,Leve
+o-1296,ex-4007,Lentidao em rota,Leve
+o-1297,ex-4010,Lentidao em rota,Leve
+o-1298,ex-4018,Lentidao em rota,Leve
+o-1299,ex-4022,Quebra de veiculo,Grave
+o-1300,ex-4042,Lentidao em rota,Leve
+o-1301,ex-4076,Lentidao em rota,Leve
+o-1302,ex-4087,Quebra de veiculo,Leve
+o-1303,ex-4088,Lentidao em rota,Medio
+o-1304,ex-4093,Quebra de veiculo,Medio
+o-1305,ex-4097,Lentidao em rota,Leve
+o-1306,ex-4110,Quebra de veiculo,Leve
+o-1307,ex-4129,Quebra de veiculo,Grave
+o-1308,ex-4141,Lentidao em rota,Leve
+o-1309,ex-4142,Lentidao em rota,Leve
+o-1310,ex-4143,Quebra de veiculo,Medio
+o-1311,ex-4149,Lentidao em rota,Leve
+o-1312,ex-4163,Lentidao em rota,Medio
+o-1313,ex-4169,Problema com endereço de entrega,Medio
+o-1314,ex-4184,Lentidao em rota,Leve
+o-1315,ex-4193,Lentidao em rota,Medio
+o-1316,ex-4203,Quebra de veiculo,Leve
+o-1317,ex-4207,Quebra de veiculo,Leve
+o-1318,ex-4210,Lentidao em rota,Grave
+o-1319,ex-4214,Problema com endereço de entrega,Leve
+o-1320,ex-4231,Lentidao em rota,Medio
+o-1321,ex-4256,Lentidao em rota,Leve
+o-1322,ex-4266,Lentidao em rota,Leve
+o-1323,ex-4269,Problema com endereço de entrega,Medio
+o-1324,ex-4276,Lentidao em rota,Leve
+o-1325,ex-4282,Lentidao em rota,Leve
+o-1326,ex-4289,Quebra de veiculo,Medio
+o-1327,ex-4311,Problema com endereço de entrega,Leve
+o-1328,ex-4315,Quebra de veiculo,Leve
+o-1329,ex-4319,Problema com endereço de entrega,Medio
+o-1330,ex-4320,Lentidao em rota,Leve
+o-1331,ex-4326,Quebra de veiculo,Grave
+o-1332,ex-4333,Quebra de veiculo,Leve
+o-1333,ex-4353,Quebra de veiculo,Leve
+o-1334,ex-4355,Problema com endereço de entrega,Grave
+o-1335,ex-4372,Lentidao em rota,Leve
+o-1336,ex-4387,Lentidao em rota,Leve
+o-1337,ex-4400,Lentidao em rota,Leve
+o-1338,ex-4406,Lentidao em rota,Grave
+o-1339,ex-4414,Quebra de veiculo,Leve
+o-1340,ex-4417,Quebra de veiculo,Medio
+o-1341,ex-4429,Lentidao em rota,Leve
+o-1342,ex-4443,Lentidao em rota,Leve
+o-1343,ex-4454,Quebra de veiculo,Leve
+o-1344,ex-4469,Lentidao em rota,Leve
+o-1345,ex-4470,Lentidao em rota,Leve
+o-1346,ex-4474,Quebra de veiculo,Leve
+o-1347,ex-4490,Lentidao em rota,Medio
+o-1348,ex-4499,Problema com endereço de entrega,Medio
+o-1349,ex-4520,Quebra de veiculo,Leve
+o-1350,ex-4522,Lentidao em rota,Medio
+o-1351,ex-4526,Lentidao em rota,Leve
+o-1352,ex-4530,Lentidao em rota,Medio
+o-1353,ex-4555,Quebra de veiculo,Leve
+o-1354,ex-4566,Quebra de veiculo,Medio
+o-1355,ex-4590,Lentidao em rota,Leve
+o-1356,ex-4603,Problema com endereço de entrega,Leve
+o-1357,ex-4607,Lentidao em rota,Grave
+o-1358,ex-4609,Lentidao em rota,Leve
+o-1359,ex-4610,Quebra de veiculo,Leve
+o-1360,ex-4635,Lentidao em rota,Leve
+o-1361,ex-4647,Problema com endereço de entrega,Leve
+o-1362,ex-4649,Lentidao em rota,Leve
