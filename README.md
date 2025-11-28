@@ -1,4 +1,4 @@
-# Dashboard-Logística
+# Dashboard-Logistica
 
 <div style = "display: inline_block"><br>
 <img align = "center" height = "800" width = "450" src="https://github.com/lucasamorimuser/icons_images/blob/main/dashboard_logistica_overview.png" /> <img align = "center" height = "800" width = "450" src="https://github.com/lucasamorimuser/icons_images/blob/main/dashboard_logistica_fretes_expedicoes.png" />  
